@@ -1,5 +1,5 @@
 # ngrok
-NGROK BY @inconshreveable
+NGROK INSTALLATION 
 
 ````bash 
 pkg up -y
